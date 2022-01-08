@@ -11,3 +11,14 @@ Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simpl
 
 
 ## 🚀 Let's code! 🚀
+
+Criando seu jogo de memória estilo Genius
+
+# DIO-Genesis
+Desafio DIO - Aprendendo Javascript Game da Memória baseado no Genius
+.
+# OBJETIVO
+Fixar os principais conceitos do desenvolvimento web
+HTML + CSS + Javascript
+Aplicar o uso de Constantes, variáveis e vetores
+Logica de programação.
